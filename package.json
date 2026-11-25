@@ -1,0 +1,1 @@
+{"description":"One fortune-cookie line for a crypto trader who has just been liquidated.","engines":{"node":">=22.18"},"license":"MIT","name":"fortune-cookie-liquidated-trader-20261125","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
